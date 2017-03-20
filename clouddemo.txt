@@ -1,0 +1,8 @@
+<html>
+	<title>
+		website for demo
+	</title>
+	<body>
+		version 1 of clouddemo
+	</body>
+</html>
